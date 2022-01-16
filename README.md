@@ -1,0 +1,1 @@
+# go-random-generator
